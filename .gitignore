@@ -1,2 +1,5 @@
 
 /.idea/
+/conf.json
+*.log
+/node_modules/
